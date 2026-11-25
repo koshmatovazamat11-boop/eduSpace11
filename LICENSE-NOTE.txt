@@ -1,0 +1,1 @@
+EduSpace demo starter. You may adapt this project for educational and personal projects. Google Fonts are loaded online; fallback fonts are used if unavailable.
